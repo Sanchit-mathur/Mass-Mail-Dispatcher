@@ -1,4 +1,4 @@
-# Mass Mail Dispatcher - Exposys Data Labs Internship Project
+ # Mass Mail Dispatcher - Exposys Data Labs Internship Project
 
 # Objective of the Project
 -To design an attractive and user-friendly GUI, which help them to fill the information clearly.
